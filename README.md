@@ -162,13 +162,16 @@ jobs:
 
 <div align="center">
 
-<a href="https://hasinigolla.github.io/Spam-vs-Ham-Classifier-for-SMS-Messages//">
+<a href="https://www.linkedi">
 <img src="https://img.shields.io/badge/LinkedIn-0d0221?style=for-the-badge&logo=linkedin&logoColor=00f5d4" />
 </a>
-<a href="mailto:hasinigolla456.com">
+<a href="mailto:youremail@example.com">
 <img src="https://img.shields.io/badge/Email-0d0221?style=for-the-badge&logo=gmail&logoColor=f15bb5" />
 </a>
-<a href="https://leetcode.com/HasiniGolla">
+<a href="https://twitter.com/">
+<img src="https://img.shields.io/badge/Twitter-0d0221?style=for-the-badge&logo=twitter&logoColor=9b5de5" />
+</a>
+<a href="https://leetcode.com/">
 <img src="https://img.shields.io/badge/LeetCode-0d0221?style=for-the-badge&logo=leetcode&logoColor=f15bb5" />
 </a>
 

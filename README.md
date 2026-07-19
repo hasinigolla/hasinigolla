@@ -2,18 +2,14 @@
 
 # Hi 👋, I'm Golla Venkata Durga Hasini
 
-### 💻 Full Stack Developer | 🤖 AI Enthusiast | ☕ Java Developer | 🚀 Aspiring Software Engineer
+### 💻 Full Stack Developer | 🤖 AI Enthusiast | ☕ Java Developer
 
-<p>
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;Building+Projects+That+Solve+Real+Problems" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;Java+%7C+Python+%7C+C%2B%2B;Building+Scalable+Web+Applications;Always+Learning+Something+New!" />
 
-<a href="https://github.com/hasinigolla">
-<img src="https://img.shields.io/github/followers/hasinigolla?label=Followers&style=for-the-badge"/>
-</a>
+<br>
 
 <a href="https://github.com/hasinigolla">
-<img src="https://img.shields.io/github/stars/hasinigolla?style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/hasinigolla?style=for-the-badge"/>
 </a>
 
 <img src="https://komarev.com/ghpvc/?username=hasinigolla&style=for-the-badge"/>
@@ -24,75 +20,58 @@
 
 # 👩‍💻 About Me
 
-🎓 B.Tech Computer Science Engineering Student
+🎓 **B.Tech Computer Science Engineering Student** at Gayatri Vidya Parishad College of Engineering
 
-🏫 Gayatri Vidya Parishad College of Engineering
+💡 Passionate about **Software Development**, **Artificial Intelligence**, and **Full Stack Development**.
 
-💡 Passionate about solving real-world problems using Full Stack Development and Artificial Intelligence.
-
-🌱 Currently learning
+🌱 Currently exploring
 
 - Data Structures & Algorithms
 - System Design
 - Backend Development
-- Machine Learning
+- Artificial Intelligence
 
-🎯 Goal
+🎯 **Career Goal**
 
-Become a Software Development Engineer building scalable and impactful applications.
+To build scalable software solutions and contribute as a Software Development Engineer.
 
 ---
 
 # 🚀 Tech Stack
 
-## 💻 Languages
+### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,c,mysql"/>
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,javascript,mysql"/>
 </p>
 
----
-
-## 🎨 Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,react,tailwind"/>
 </p>
 
----
-
-## ⚙ Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi"/>
 </p>
 
----
-
-## 🗄 Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,redis"/>
 </p>
 
----
-
-## 🤖 AI / ML
+### AI / ML
 
 <p>
 <img src="https://skillicons.dev/icons?i=python"/>
 </p>
 
-- Scikit-Learn
-- Streamlit
-- Hugging Face
-- Gemini AI
-- Pandas
-- NumPy
+Scikit-Learn • Streamlit • Hugging Face • Gemini AI • Pandas • NumPy
 
----
-
-## 🛠 Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,postman"/>
@@ -104,11 +83,9 @@ Become a Software Development Engineer building scalable and impactful applicati
 
 ## 🤖 CodeNexus
 
-AI-powered coding assistant capable of generating, reviewing, analyzing, and executing code across multiple programming languages using LLMs.
+An AI-powered coding assistant capable of generating, reviewing, analyzing, and executing code across multiple programming languages using LLMs.
 
-**Tech Stack**
-
-`React` • `FastAPI` • `Gemini AI` • `Redis` • `Docker`
+**Tech:** React • FastAPI • Gemini AI • Redis • Docker
 
 ---
 
@@ -116,31 +93,29 @@ AI-powered coding assistant capable of generating, reviewing, analyzing, and exe
 
 A full-stack blood donation platform connecting donors and recipients through emergency requests and efficient donor management.
 
-**Tech Stack**
-
-`Node.js` • `Express.js` • `MongoDB` • `JavaScript`
+**Tech:** Node.js • Express.js • MongoDB • JavaScript
 
 ---
 
-## 📩 Spam vs Ham SMS Classification
+## 📩 Spam vs Ham Classification
 
-Machine Learning application that classifies SMS messages into Spam or Ham using NLP and the Multinomial Naive Bayes algorithm.
+A Machine Learning application that classifies SMS messages into Spam or Ham using Natural Language Processing and Multinomial Naive Bayes.
 
-**Tech Stack**
-
-`Python` • `Scikit-Learn` • `Streamlit` • `NLTK`
+**Tech:** Python • Scikit-Learn • Streamlit • NLTK
 
 ---
 
-# 📈 Competitive Programming
+# 📈 Coding Journey
 
-- 💻 Solved **350+ DSA Problems**
-- ⭐ Maximum **1600+ Rating** on LeetCode
-- 📚 Regularly practicing Data Structures & Algorithms
+🏆 Solved **350+ DSA Problems**
+
+⭐ Maximum **1600+ Rating** on LeetCode
+
+💻 Passionate about problem-solving and software development.
 
 ---
 
-# 📊 GitHub Statistics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -158,9 +133,23 @@ Machine Learning application that classifies SMS messages into Spam or Ham using
 
 ---
 
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hasinigolla&theme=tokyonight&column=7"/>
+
+</p>
+
+---
+
 # 🌐 Connect With Me
 
 <p align="center">
+
+<a href="https://github.com/hasinigolla">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
 
 <a href="https://www.linkedin.com/in/hasini-golla-829094301">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
@@ -168,10 +157,6 @@ Machine Learning application that classifies SMS messages into Spam or Ham using
 
 <a href="mailto:hasinigolla456@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://github.com/hasinigolla">
-<img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://leetcode.com/u/HasiniGolla/">
@@ -186,6 +171,6 @@ Machine Learning application that classifies SMS messages into Spam or Ham using
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Code. Learn. Build. Repeat."* 🚀
+*"Learning, Building, and Growing — One Project at a Time."* 🚀
 
 </div>

@@ -49,16 +49,6 @@ Machine Learning application that classifies SMS messages as Spam or Ham using *
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=hasinigolla&show_icons=true&theme=tokyonight"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasinigolla&layout=compact&theme=tokyonight"/>
-
-</p>
-
 ---
 
 ## 🌐 Connect with Me

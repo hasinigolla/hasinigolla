@@ -68,7 +68,9 @@ Machine Learning application that classifies SMS messages as Spam or Ham using *
 </a>
 
 <a href="https://leetcode.com/u/HasiniGolla/">
-<img src="https://cdn.simpleicons.org/leetcode"/>
+<img src="https://cdn.simpleicons.org/leetcode" width="40"/>
+</a>
+
 </a>
 
 </p>
